@@ -1,3 +1,5 @@
 # nemanja
 
-testiramo git
+kurac palac
+
+pikamo git
